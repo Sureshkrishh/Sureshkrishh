@@ -3,12 +3,12 @@
 <img align= "right" alt="GIF" width="500px" height="280px" src="https://github.com/Sureshkrishh/Sureshkrishh/blob/main/Images/profile.gif/">
 
 - 🔭 I’m currently working on Data science projects.
-- 🌱 I’m currently learning RNN.
+- 🌱 I’m currently learning GenAI.
 - 👯 I’m looking to collaborate on any end to end Data science project.
 - 💬 Ask me about anything, I ll try my best to share my knowledge.
-- 📫 How to reach me: ksureshkrishna97@gmail.com
+- 📫 How to reach me: suresh.dataman@gmail.com
 - 💭 Quote: PREDICTING THE FUTURE ISN’T MAGIC, IT’S ARTIFICIAL INTELLIGENCE 
-- 🥅 2022 Goals: To be more productive and successful 
+- 🥅 2024 Goals: To be more productive and successful 
 - ⚡ Fun fact: I'm graduate mechanical engineer
 
 <br>
